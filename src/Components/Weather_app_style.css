@@ -1,0 +1,66 @@
+.card{
+    background-color: white;
+    padding-top: 50px;
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 500px;
+    border-radius: 1rem;
+    border-color: rgb(249, 180, 52);
+    border-style: double;
+    /*background-image: url('https://images4.alphacoders.com/600/600599.jpg');*/
+   
+}
+
+.title{
+   font-family: "American typewritter";
+   color: rgb(249, 180, 52);
+   font-size: 30px;
+   font-weight: bold;
+
+}
+label{
+   font-family: "American typewritter";
+   color: rgb(74, 77, 67);
+   font-weight: bold;
+   font-size: 20px;
+}
+
+.city_input{
+    margin-top: 20px;
+    border-radius: .7rem;
+    width: 35vh;
+    height: 4vh;
+    font-size: 17px;
+    font-family: "American typewritter";
+    font-weight: bold;
+}
+
+button{
+    border-radius: 1rem;
+    width: 14vh;
+    height: 4vh;
+    margin-top: 20px;
+    background-color: rgb(249, 180, 52);
+    color: white;
+    border-color: rgb(239, 211, 176);
+    font-weight: bold;
+    
+}
+
+.Temp{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.city_name{
+    font-size: 22px;
+}
+
+.Tempicon{
+    width: 70px;
+    height: 70px;
+    margin-top: -4vh;
+}
